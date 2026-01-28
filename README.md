@@ -1,7 +1,7 @@
 # BLETerminal
 ![BLETerminal](Pics/BLETerminal.png)
 ## Version
-2.0.0
+2.0.1
 
 ## Description
 The BLETerminal is a terminal for connecting to BLE devices.
