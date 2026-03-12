@@ -4,7 +4,7 @@
 3.2.0
 
 ## Description
-The BLETerminal is a BLE server terminal for connecting to BLE devices.
+The BLETerminal is a BLE terminal for connecting to BLE devices.
 
 ## Features
 - Service/Characteristic selection
